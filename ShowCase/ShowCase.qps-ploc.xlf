@@ -18,6 +18,22 @@
           <source>ファイル</source>
           <target state="new">ファイル</target>
         </trans-unit>
+        <trans-unit id="Resx/LangMenuItem1.Text" translate="yes" xml:space="preserve">
+          <source>言語</source>
+          <target state="new">言語</target>
+        </trans-unit>
+        <trans-unit id="Resx/usToolStripMenuItem.Text" translate="yes" xml:space="preserve">
+          <source>英語 (en-US)</source>
+          <target state="new">英語 (en-US)</target>
+        </trans-unit>
+        <trans-unit id="Resx/cnToolStripMenuItem.Text" translate="yes" xml:space="preserve">
+          <source>中国語 (zh-CN)</source>
+          <target state="new">中国語 (zh-CN)</target>
+        </trans-unit>
+        <trans-unit id="Resx/jaToolStripMenuItem.Text" translate="yes" xml:space="preserve">
+          <source>日本語 (ja-JP)</source>
+          <target state="new">日本語 (ja-JP)</target>
+        </trans-unit>
         <trans-unit id="Resx/AboutToolStripMenuItem.Text" translate="yes" xml:space="preserve">
           <source>バージョン情報</source>
           <target state="new">バージョン情報</target>
