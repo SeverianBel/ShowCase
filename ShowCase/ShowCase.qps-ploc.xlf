@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="ja-JP" target-language="qps-ploc" original="ShowCase.resx" tool-id="MultilingualAppToolkit" product-name="ShowCase" product-version="1.0.0.0" build-num="0">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="3.1.1250.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="Resx">
+        <trans-unit id="Resx/OpenToolStripMenuItem.Text" translate="yes" xml:space="preserve">
+          <source>開く</source>
+          <target state="new">開く</target>
+        </trans-unit>
+        <trans-unit id="Resx/CloseToolStripMenuItem.Text" translate="yes" xml:space="preserve">
+          <source>閉じる</source>
+          <target state="new">閉じる</target>
+        </trans-unit>
+        <trans-unit id="Resx/FileToolStripMenuItem.Text" translate="yes" xml:space="preserve">
+          <source>ファイル</source>
+          <target state="new">ファイル</target>
+        </trans-unit>
+        <trans-unit id="Resx/AboutToolStripMenuItem.Text" translate="yes" xml:space="preserve">
+          <source>バージョン情報</source>
+          <target state="new">バージョン情報</target>
+        </trans-unit>
+        <trans-unit id="Resx/HelpToolStripMenuItem.Text" translate="yes" xml:space="preserve">
+          <source>ヘルプ</source>
+          <target state="new">ヘルプ</target>
+        </trans-unit>
+        <trans-unit id="Resx/MenuStrip1.Text" translate="yes" xml:space="preserve">
+          <source>MenuStrip1</source>
+          <target state="new">MenuStrip1</target>
+        </trans-unit>
+        <trans-unit id="Resx/$this.Text" translate="yes" xml:space="preserve">
+          <source>ShowCase</source>
+          <target state="new">ShowCase</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
